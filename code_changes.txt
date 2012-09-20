@@ -1,0 +1,25 @@
+In index.html file					
+
+					<div class="col1">
+                        
+						<p>Join Private Internet Access™, the world's leading VPN service, and become fully anonymous.  By utilizing strong encryption in conjunction with a private tunneling protocol, all of your Internet traffic, from your web browsing to your downloads, will be hidden and anonymized.  Without Private Internet Access™, your internet usage is visible and susceptible to eavesdropping and spying.</p>
+
+						<p>Browse safely and securely without any fear of being watched or identified.</p>
+						</div>
+
+
+
+
+
+
+
+
+
+
+beginning at line 514 of screen.css:
+
+.download {
+  background-image: url("images/button_sprite.png") !important;
+  background-position: 95% -70px !important;
+  background-repeat: no-repeat !important; }
+
