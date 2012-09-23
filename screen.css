@@ -81,9 +81,9 @@ html a:hover, body a:hover {
   background: -o-linear-gradient(top, #252525 0%, #303030 49%, #252525 51%, #252525 99%);
   background: -ms-linear-gradient(top, #252525 0%, #303030 49%, #252525 51%, #252525 99%);
   -webkit-box-shadow: inset 0 1px 0 #252525, inset 0 2px 0 #333333, inset 0 -1px 0 #252525, inset 0 -2px 0 #333333;
-  height: 51px;
+  height: 35px;
   overflow: hidden;
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 14.4px; }
 
 .toolbar.no_spacing {
@@ -268,8 +268,8 @@ pre {
   background: -webkit-linear-gradient(top, #00b857 0%, #004822 100%);
   background: -o-linear-gradient(top, #00b857 0%, #004822 100%);
   background: -ms-linear-gradient(top, #00b857 0%, #004822 100%);
-  color: #fff;
-  border: 1px solid #000;
+  color: #000000;
+  border: 1px solid #878787;
   text-shadow: -2px -2px 0 rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.3); }
 
